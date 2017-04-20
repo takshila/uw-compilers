@@ -1,0 +1,176 @@
+Script started on Thu Dec  8 18:09:45 2016
+[1m[7m%[27m[1m[0m                                                                                ]2;saurabhseth@Saurabhs-MacBook-Pro: ~/Development/ruby/hw8]1;..ment/ruby/hw8[0m[27m[24m[J[39m[0m[49m[44m[30m ~/Development/ruby/hw8 [49m[34m[39m [K[?1h=rruby calc.rb[1m [0m[0m [?1l>
+]2;ruby calc.rb]1;rubyHow can I help you with your calculations today??
+calculator > 2 + 3
+5.0
+calculator > 5 + 6 =
+11.0
+JUNK PRESENT IN THE INPUT.
+calculator > a = 5 + 6
+a saved to memory as 11.0
+calculator > list
+PI              -->  3.141592653589793
+a               -->  11.0
+calculator > clear a
+a erased successfully from the memory.
+calculator > b = a * 5
+UNKNOWN IDENTIFIER --> a. INCORRECT INPUT. PLEASE CHECK THE MANUAL.
+JUNK PRESENT IN THE INPUT.
+5.0
+calculator > c = 3
+c saved to memory as 3.0
+calculator > d = c + 8 * (c)
+d saved to memory as 27.0
+calculator > list
+PI              -->  3.141592653589793
+c               -->  3.0
+d               -->  27.0
+calculator > e = d[Kc * PI + sqrt(d)
+e saved to memory as 14.620930383476011
+calculator > f[KPI/PI
+1.0
+calculator > 5/0
+DIVISION BY ZERO NOT ALLOWED. INCORRECT SYNTAX. PLEASE CHECK THE MANUAL.
+calculator > 5/jil
+UNKNOWN IDENTIFIER --> jil. INCORRECT SYNTAX. PLEASE CHECK THE MANUAL.
+calculator > 5/?
+UNIDENTIFIED CHARACTER FOUND
+INCORRECT SYNTAX. PLEASE CHECK THE MANUAL.
+calculator > list
+PI              -->  3.141592653589793
+calculator > c = 3;d=27;e=c*PI+sqrt(d);
+c saved to memory as 3.0
+d saved to memory as 27.0
+e saved to memory as 14.620930383476011
+calculator > c = 3;d=27;e=c*PI+sqrt(d);[14G[Kc = 3;d=27;e=c*PI+sqrt(d);;d=27;e=c*PI+sqrt(d);[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K5;[K;d=2
+c saved to memory as 5.0
+d saved to memory as 2.0
+calculator > list
+PI              -->  3.141592653589793
+c               -->  5.0
+d               -->  2.0
+e               -->  14.620930383476011
+calculator > cbrt(27)
+3.0
+calculator > sin(1)
+0.8414709848078965
+calculator > cos(1)
+0.5403023058681398
+calculator > a = tan(1)*cos(1)/sin(1)
+a saved to memory as 1.0
+calculator > list
+PI              -->  3.141592653589793
+c               -->  5.0
+d               -->  2.0
+e               -->  14.620930383476011
+a               -->  1.0
+calculator > b = log(a) + sqrt(PI) * c / - (sqrt(PI) + d
+MATCHING ) NOT FOUND FOR (. INCORRECT INPUT. PLEASE CHECK THE MANUAL.
+calculator > b = log(a) + sqrt(PI) * c / -(sqrt(PI) + d) + d + d
+b saved to memory as -3.0
+calculator > 2**3
+8.0
+calculator > 4**3
+64.0
+calculator > cbrt[K[K[K[Ksqrt(cbrt(64))
+2.0
+calculator > clear 64
+ERROR IN SYNTAX. AN IDENTIFIER EXPECTED AFTER clear.
+calculator > -[Klist
+PI              -->  3.141592653589793
+c               -->  5.0
+d               -->  2.0
+e               -->  14.620930383476011
+a               -->  1.0
+b               -->  -3.0
+calculator > -a * b
+INCORRECT SYNTAX. PLEASE CHECK THE MANUAL.
+JUNK PRESENT IN THE INPUT.
+INCORRECT SYNTAX. PLEASE CHECK THE MANUAL.
+JUNK PRESENT IN THE INPUT.
+-3.0
+calculator > exit
+Quitting....
+[1m[7m%[27m[1m[0m                                                                                ]2;saurabhseth@Saurabhs-MacBook-Pro: ~/Development/ruby/hw8]1;..ment/ruby/hw8[0m[27m[24m[J[39m[0m[49m[44m[30m ~/Development/ruby/hw8 [49m[34m[39m [K[?1h=ruby calc.rb[?1l>
+]2;ruby calc.rb]1;rubyHow can I help you with your calculations today??
+calculator > a=1
+a saved to memory as 1.0
+calculator > -a
+INCORRECT SYNTAX. PLEASE CHECK THE MANUAL.
+JUNK PRESENT IN THE INPUT.
+calculator > -a(a[K[K[K(a)
+-1.0
+calculator > c=5;d=2;a=1;b=-3;c[1@c=[1@ c[1@=c[1@ c[1@3c[1@;c[1@dc[1@=c[1@2c[1@7c[1@;c[1@ec[1@=cc[1@c=[1@*c[1@Pc[1@Ic[1@+c[1@sc[1@qc[1@rc[1@tc[1@(c[1@dc[1@)c[1@;cc=5;d=2;a=1;b=-3;
+c saved to memory as 3.0
+d saved to memory as 27.0
+e saved to memory as 14.620930383476011
+c saved to memory as 5.0
+d saved to memory as 2.0
+a saved to memory as 1.0
+b saved to memory as -3.0
+calculator > list
+PI              -->  3.141592653589793
+a               -->  1.0
+c               -->  5.0
+d               -->  2.0
+e               -->  14.620930383476011
+b               -->  -3.0
+calculator > 7([K[K5*(2**2)
+20.0
+calculator > 3**2**2[K3
+6561.0
+calculator > 2**3
+8.0
+calculator > 3**8
+6561.0
+calculator > (3**2)**3
+729.0
+calculator > a = ([14G(3**2)**3[1@a([P([1@f([1@ ([1@=([1@ ((3**2)**3
+f saved to memory as 729.0
+calculator > w = f**4*[K[K[K[K[Kcr[Kbrt(f)**3
+w saved to memory as 729.0
+calculator > -(w+f)
+-1458.0
+calculator > list
+PI              -->  3.141592653589793
+a               -->  1.0
+c               -->  5.0
+d               -->  2.0
+e               -->  14.620930383476011
+b               -->  -3.0
+f               -->  729.0
+w               -->  729.0
+calculator > clear f;cear[K[K[Klear a;[K[Kw[Kd[Ke;
+f erased successfully from the memory.
+e erased successfully from the memory.
+calculator > log(PI)
+1.1447298858494002
+calculator > sqrt(PI)*log(PI)
+2.028980894420401
+calculator > sqrt(PI)*log(PI)/PI
+0.6458446775720437
+calculator > list
+PI              -->  3.141592653589793
+a               -->  1.0
+c               -->  5.0
+d               -->  2.0
+b               -->  -3.0
+w               -->  729.0
+calculator > A
+UNKNOWN IDENTIFIER --> A. INCORRECT SYNTAX. PLEASE CHECK THE MANUAL.
+calculator > a
+1.0
+calculator > a=4.5e1
+a saved to memory as 45.0
+calculator > list
+PI              -->  3.141592653589793
+a               -->  45.0
+calculator > qui[K[K[K4.5E3.[K.1
+UNIDENTIFIED CHARACTER FOUND
+4500.0
+JUNK PRESENT IN THE INPUT.
+calculator > exit
+Quitting....
+[1m[7m%[27m[1m[0m                                                                                ]2;saurabhseth@Saurabhs-MacBook-Pro: ~/Development/ruby/hw8]1;..ment/ruby/hw8[0m[27m[24m[J[39m[0m[49m[44m[30m ~/Development/ruby/hw8 [49m[34m[39m [K[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on Thu Dec  8 18:51:20 2016
